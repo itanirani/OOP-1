@@ -1,6 +1,6 @@
 class Person 
 	attr_accessor :name 
-	def greeting 
+	def greeting
 		puts "hi my name is #{@name}"
 	end 
 end 
